@@ -204,11 +204,11 @@
         },
         "pyopenssl": {
             "hashes": [
-                "sha256:841498b9bec61623b1b6c47ebbc02367c07d60e0e195f19790817f10cc8db0b7",
-                "sha256:9e0c526404a210df9d2b18cd33364beadb0dc858a739b885677bc65e105d4a4c"
+                "sha256:24f0dc5227396b3e831f4c7f602b950a5e9833d292c8e4a2e06b709292806ae2",
+                "sha256:276f931f55a452e7dea69c7173e984eb2a4407ce413c918aa34b55f82f9b8bac"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==23.1.1"
+            "version": "==23.2.0"
         },
         "sslyze": {
             "hashes": [
@@ -226,11 +226,11 @@
         },
         "typing-extensions": {
             "hashes": [
-                "sha256:06006244c70ac8ee83fa8282cb188f697b8db25bc8b4df07be1873c43897060c",
-                "sha256:3a8b36f13dd5fdc5d1b16fe317f5668545de77fa0b8e02006381fd49d731ab98"
+                "sha256:88a4153d8505aabbb4e13aacb7c486c2b4a33ca3b3f807914a9b4c844c471c26",
+                "sha256:d91d5919357fe7f681a9f2b5b4cb2a5f1ef0a1e9f59c4d8ff0d3491e05c0ffd5"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==4.6.2"
+            "version": "==4.6.3"
         },
         "wheel": {
             "hashes": [
