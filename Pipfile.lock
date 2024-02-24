@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "436967b1106c21b4666f953d14488993b0be004d233863262953dcd0985a4fed"
+            "sha256": "0ada3f39df3cfaf612f6b7cc508dbd13868f4916a833fdb4bef2d6203d681ef5"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -114,7 +114,7 @@
         "nassl": {
             "editable": true,
             "git": "https://github.com/nabla-c0d3/nassl.git",
-            "ref": "cedaa5fdcb7009ba50bd2bc48c454eb7b4f49a4f"
+            "ref": "2447a0971f07faedce6dfb3a05bb3c00b309769b"
         },
         "pycparser": {
             "hashes": [
