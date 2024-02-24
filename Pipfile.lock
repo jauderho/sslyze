@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "5a48c6435ba3b1ee71e115e14284e923ae975050fd59327033705c5ee1054994"
+            "sha256": "436967b1106c21b4666f953d14488993b0be004d233863262953dcd0985a4fed"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -112,23 +112,9 @@
             "version": "==41.0.7"
         },
         "nassl": {
-            "hashes": [
-                "sha256:1876d6c42d6df2cea725401238bdb5c0c27e261df1070c8442f81e7946540590",
-                "sha256:1b0eddb7db832ca1baec9129aa41892f51242bec31526858e97365176c2dcec7",
-                "sha256:45132ddd12ebe3ecfb37ae50f17b3d9ba11d331ae88a247653e17480f9c66076",
-                "sha256:57628b2c9278977902311a6a7b6b0dd7592d9ba26b7e229c1013b4b78f0d5ef2",
-                "sha256:630cfe00d84cd92cea5277264873a691ba9b8394e9b64b32b140878d4473c239",
-                "sha256:80452eee720bcee9a24310cc903ee471f240bcde4ed1df06513c65dcef92c8c2",
-                "sha256:97514885b5d9474f2d83693b989990e78f69178e064817361ddff84b52945faf",
-                "sha256:b37b3320e34265a818a5a1b210d8d8db7ae56677203ff07808851d10bdd08b42",
-                "sha256:c772eb8a92e341f7a128d12d4f700e98cd059697ed828daf18bbc2e26908d40e",
-                "sha256:d35e72e273bc5213b8c0bf671c5661e6efe8fa0fb306dcf74d5977ede6abdc62",
-                "sha256:e899bc807a2372726e2265a9b5101596fbb2f8323865cbfdbe4950728726fd1a",
-                "sha256:eac996b28291b927448fab41b0e5db6fb2dedd7108d548143bf6a64141ffb29e",
-                "sha256:f1aabfb417a6b222816255543f4f2b19ec2d7e25e2348a614c82749556e9e803"
-            ],
-            "index": "pypi",
-            "version": "==1.0.3"
+            "editable": true,
+            "git": "https://github.com/nabla-c0d3/nassl.git",
+            "ref": "cedaa5fdcb7009ba50bd2bc48c454eb7b4f49a4f"
         },
         "pycparser": {
             "hashes": [

@@ -2,7 +2,7 @@
 annotated-types==0.6.0; python_version >= '3.8'
 cffi==1.16.0; python_version >= '3.8'
 cryptography==41.0.7; python_version >= '3.7'
-nassl==1.0.3
+-e git+https://github.com/nabla-c0d3/nassl.git@cedaa5fdcb7009ba50bd2bc48c454eb7b4f49a4f#egg=nassl
 pycparser==2.21
 pydantic==2.5.3; python_version >= '3.7'
 pydantic-core==2.14.6; python_version >= '3.7'
