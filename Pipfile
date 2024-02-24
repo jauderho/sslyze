@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+sslyze = {path = ".", editable = true}
+nassl = "*"
 
 [dev-packages]
 
