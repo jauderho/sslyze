@@ -5,8 +5,8 @@ name = "pypi"
 
 [packages]
 sslyze = {path = ".", editable = true}
-#nassl = "*"
-nassl = { git = "https://github.com/nabla-c0d3/nassl.git", editable = true, ref="5.1.0" }
+nassl = "*"
+#nassl = { git = "https://github.com/nabla-c0d3/nassl.git", editable = true, ref="5.1.0" }
 
 [dev-packages]
 
