@@ -54,7 +54,6 @@
         },
         "sslyze": {
             "editable": true,
-            "markers": "python_version >= '3.7'",
             "path": "."
         }
     },
